@@ -1,0 +1,6 @@
+C:\Users\jgeerla\Documents\Visual Studio 2015\Projects\MyFirstRepository\FirstRepository\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\jgeerla\Documents\Visual Studio 2015\Projects\MyFirstRepository\FirstRepository\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\jgeerla\Documents\Visual Studio 2015\Projects\MyFirstRepository\FirstRepository\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\jgeerla\Documents\Visual Studio 2015\Projects\MyFirstRepository\FirstRepository\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\jgeerla\Documents\Visual Studio 2015\Projects\MyFirstRepository\FirstRepository\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\jgeerla\Documents\Visual Studio 2015\Projects\MyFirstRepository\FirstRepository\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
